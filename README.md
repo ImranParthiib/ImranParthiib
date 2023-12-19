@@ -305,17 +305,17 @@ rewritten in algorithms, crafting a digital saga of dreams-turned-reality. ğŸ“–ğ
     <tr>
         <td style="text-align: center;">
             <img src="https://github-readme-stats.vercel.app/api?username=ImranParthibInsights&theme=react&hide_border=false&include_all_commits=true&count_private=true"
-                alt="imranparthibinsights" style="display: block; margin: 0 auto;" />
+                alt="ImranParthibInsights" style="display: block; margin: 0 auto;" />
         </td>
         <td style="text-align: center;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranparthibinsights&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-                alt="imranparthibinsights" style="display: block; margin: 0 auto;" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImranParthibInsights&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+                alt="ImranParthibInsights" style="display: block; margin: 0 auto;" />
         </td>
     </tr>
     <tr>
         <td colspan="2" style="text-align: center;">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=imranparthibinsights&theme=react&hide_border=false"
-                alt="imranparthibinsights" style="display: block; margin: 0 auto;" />
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImranParthibInsights&theme=react&hide_border=false"
+                alt="ImranParthibInsights" style="display: block; margin: 0 auto;" />
         </td>
     </tr>
 </table>
