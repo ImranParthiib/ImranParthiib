@@ -314,8 +314,8 @@ rewritten in algorithms, crafting a digital saga of dreams-turned-reality. ğŸ“–ğ
     </tr>
     <tr>
         <td colspan="2" style="text-align: center;">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=imranparthib13&theme=react&hide_border=false"
-                alt="imranparthib13" style="display: block; margin: 0 auto;" />
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=imranparthibinsights&theme=react&hide_border=false"
+                alt="imranparthibinsights" style="display: block; margin: 0 auto;" />
         </td>
     </tr>
 </table>
