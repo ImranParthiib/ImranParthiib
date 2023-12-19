@@ -304,12 +304,12 @@ rewritten in algorithms, crafting a digital saga of dreams-turned-reality. ğŸ“–ğ
 <table>
     <tr>
         <td style="text-align: center;">
-            <img src="https://github-readme-stats.vercel.app/api?username=imranparthib13&theme=react&hide_border=false&include_all_commits=true&count_private=true"
-                alt="imranparthib13" style="display: block; margin: 0 auto;" />
+            <img src="https://github-readme-stats.vercel.app/api?username=imranparthibinsights&theme=react&hide_border=false&include_all_commits=true&count_private=true"
+                alt="imranparthibinsights" style="display: block; margin: 0 auto;" />
         </td>
         <td style="text-align: center;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranparthib13&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-                alt="imranparthib13" style="display: block; margin: 0 auto;" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranparthibinsights&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+                alt="imranparthibinsights" style="display: block; margin: 0 auto;" />
         </td>
     </tr>
     <tr>
