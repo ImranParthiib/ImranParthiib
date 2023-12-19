@@ -304,7 +304,7 @@ rewritten in algorithms, crafting a digital saga of dreams-turned-reality. ğŸ“–ğ
 <table>
     <tr>
         <td style="text-align: center;">
-            <img src="https://github-readme-stats.vercel.app/api?username=imranparthibinsights&theme=react&hide_border=false&include_all_commits=true&count_private=true"
+            <img src="https://github-readme-stats.vercel.app/api?username=ImranParthibInsights&theme=react&hide_border=false&include_all_commits=true&count_private=true"
                 alt="imranparthibinsights" style="display: block; margin: 0 auto;" />
         </td>
         <td style="text-align: center;">
