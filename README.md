@@ -308,7 +308,7 @@ rewritten in algorithms, crafting a digital saga of dreams-turned-reality. ðŸ“–ð
                 alt="ImranParthibInsights" style="display: block; margin: 0 auto;" />
         </td>
         <td style="text-align: center;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImranParthib&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImranParthibInsights&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
                 alt="ImranParthibInsights" style="display: block; margin: 0 auto;" />
         </td>
     </tr>
