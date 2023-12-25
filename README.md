@@ -1,5 +1,3 @@
-[![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)](https://github.com/ImranParthib13)
-
 <table>
     <tr>
         <td width="65%">
