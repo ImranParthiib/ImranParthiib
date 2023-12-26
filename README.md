@@ -106,11 +106,6 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [C++ Heart Shape Code Your Love in Loops #codevisualization #codingart #programming](https://www.youtube.com/watch?v=Byb0IK0QU_M)
-- [C++ Heart Shape: Code Your Love in Loops #programming  #codingart #HeartShapeCode#codevisualization](https://www.youtube.com/watch?v=99BObFWtwDc)
-- [Good at Programming #beginners #coding #code#programming #vscode](https://www.youtube.com/watch?v=OBmzfQuwj3k)
-- [how to be good at programming #coding #programming #beginners #code](https://www.youtube.com/watch?v=zSzlm6okUEk)
-- [𝓓𝓮𝓬𝓸𝓭𝓮 𝓝𝓸𝔀 Live Stream](https://www.youtube.com/watch?v=r-T689SoQ7M)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest Youtube Videos
