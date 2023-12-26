@@ -295,7 +295,8 @@ rewritten in algorithms, crafting a digital saga of dreams-turned-reality. 📖�
 <p><a href="https://www.buymeacoffee.com/imranparthib"> <img align="left"
             src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
             alt="imranparthib" /></a><a href="https://ko-fi.com/imranparthib"> <img align="left"
-            src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="imranparthib" /></a></p><br><br>
+            src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="imranparthib" /></a><a href="https://www.youtube.com/@decode_us"> <img align="left"
+            src="https://ihitthebutton.com/wp-content/uploads/2020/11/youtube-subscribe-png.png" height="50" width="210" alt="Decode US" /></a></p><br><br>
 <hr>
 
 # 📊 GitHub Stats:
