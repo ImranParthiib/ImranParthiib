@@ -105,16 +105,10 @@
   
 ### Blog posts
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Byb0IK0QU_M"><img width="140px" src="http://img.youtube.com/vi/Byb0IK0QU_M/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Byb0IK0QU_M">C++ Heart Shape Code Your Love in Loops #codevisualization #codingart #programming</a><br/>Dec 20, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=99BObFWtwDc"><img width="140px" src="http://img.youtube.com/vi/99BObFWtwDc/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=99BObFWtwDc">C++ Heart Shape: Code Your Love in Loops #programming  #codingart #HeartShapeCode#codevisualization</a><br/>Dec 20, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=OBmzfQuwj3k"><img width="140px" src="http://img.youtube.com/vi/OBmzfQuwj3k/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=OBmzfQuwj3k">Good at Programming #beginners #coding #code#programming #vscode</a><br/>Aug 20, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=zSzlm6okUEk"><img width="140px" src="http://img.youtube.com/vi/zSzlm6okUEk/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=zSzlm6okUEk">how to be good at programming #coding #programming #beginners #code</a><br/>Aug 20, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=r-T689SoQ7M"><img width="140px" src="http://img.youtube.com/vi/r-T689SoQ7M/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=r-T689SoQ7M">𝓓𝓮𝓬𝓸𝓭𝓮 𝓝𝓸𝔀 Live Stream</a><br/>Aug 9, 2023</td></tr></table>
+<!-- BLOG-POST-LIST:START -->
+- [Navigating the Evolving World of Software Development: Key Insights and Trends for Success](https://imranparthib.hashnode.dev/modern-software-development-insights-trends)
+- [Navigating the Sea of Software Development: A Conscious Approach](https://medium.com/@imranparthib/navigating-the-sea-of-software-development-a-conscious-approach-6d2c1de32c24?source=rss-894672976d69------2)
+- [Navigating the Sea of Software Development: A Conscious Approach](https://dev.to/imranparthib/navigating-the-sea-of-software-development-a-conscious-approach-3gcc)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest Youtube Videos
