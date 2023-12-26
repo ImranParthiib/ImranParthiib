@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 name: Latest blog post workflow
+=======
+name: Latest YouTube Videos
+max_post_count = 1
+>>>>>>> a766d4e4fa513b6668cb018106069b6888a6630b
 on:
   schedule:
     # Runs every hour
