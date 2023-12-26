@@ -103,7 +103,7 @@
 - ⚡ Fun fact **"Once lost in the prose of novels, now found in the elegance of code. My story evolved, chapters
   rewritten in algorithms, crafting a digital saga of dreams-turned-reality. 📖💻✨ #NovelsToCode"**
 
-# Blog posts
+### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Navigating the Evolving World of Software Development: Key Insights and Trends for Success](https://imranparthib.hashnode.dev/modern-software-development-insights-trends)
