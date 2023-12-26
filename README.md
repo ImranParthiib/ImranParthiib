@@ -106,11 +106,9 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [C++ Heart Shape Code Your Love in Loops #codevisualization #codingart #programming](https://www.youtube.com/watch?v=Byb0IK0QU_M)
-- [C++ Heart Shape: Code Your Love in Loops #programming  #codingart #HeartShapeCode#codevisualization](https://www.youtube.com/watch?v=99BObFWtwDc)
-- [Good at Programming #beginners #coding #code#programming #vscode](https://www.youtube.com/watch?v=OBmzfQuwj3k)
-- [how to be good at programming #coding #programming #beginners #code](https://www.youtube.com/watch?v=zSzlm6okUEk)
-- [𝓓𝓮𝓬𝓸𝓭𝓮 𝓝𝓸𝔀 Live Stream](https://www.youtube.com/watch?v=r-T689SoQ7M)
+- [Navigating the Evolving World of Software Development: Key Insights and Trends for Success](https://imranparthib.hashnode.dev/modern-software-development-insights-trends)
+- [Navigating the Sea of Software Development: A Conscious Approach](https://medium.com/@imranparthib/navigating-the-sea-of-software-development-a-conscious-approach-6d2c1de32c24?source=rss-894672976d69------2)
+- [Navigating the Sea of Software Development: A Conscious Approach](https://dev.to/imranparthib/navigating-the-sea-of-software-development-a-conscious-approach-3gcc)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest Youtube Videos
