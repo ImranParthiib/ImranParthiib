@@ -103,6 +103,7 @@ rewritten in algorithms, crafting a digital saga of dreams-turned-reality. ðŸ“–ð
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Navigating the Sea of Software Development: A Conscious Approach](https://medium.com/@imranparthib/navigating-the-sea-of-software-development-a-conscious-approach-6d2c1de32c24?source=rss-894672976d69------2)
 - [Navigating the Sea of Software Development: A Conscious Approach](https://dev.to/imranparthib/navigating-the-sea-of-software-development-a-conscious-approach-3gcc)
 <!-- BLOG-POST-LIST:END -->
 
