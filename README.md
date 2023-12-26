@@ -102,7 +102,10 @@
 
 - ⚡ Fun fact **"Once lost in the prose of novels, now found in the elegance of code. My story evolved, chapters
   rewritten in algorithms, crafting a digital saga of dreams-turned-reality. 📖💻✨ #NovelsToCode"**
+### Latest Youtube Videos
 
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -112,11 +115,6 @@
 - [how to be good at programming #coding #programming #beginners #code](https://www.youtube.com/watch?v=zSzlm6okUEk)
 - [𝓓𝓮𝓬𝓸𝓭𝓮 𝓝𝓸𝔀 Live Stream](https://www.youtube.com/watch?v=r-T689SoQ7M)
 <!-- BLOG-POST-LIST:END -->
-
-### Latest Youtube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
