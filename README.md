@@ -69,9 +69,11 @@
         alt="imranparthib13" /> </p>
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=imranparthib13&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🌐 Connect with Me:
+
 <p align="left">
     <a href="https://www.linkedin.com/in/imranparthib/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-ImranParthib%20✔-0077B5?style=for-the-badge&logo=linkedin"
@@ -96,16 +98,23 @@
 - 📫 How to reach me **imranparthib13@gmail.com,https://www.linkedin.com/in/imranparthib/**
 
 - 📄 Know about my experiences
-[https://imranparthib.w3spaces.com/?fbclid=IwAR2Thupc-ggltoR_vSx-gPU-1yEWsQC6A7oqgEnvUQAQjKLhhlYNeh3QnBY](https://imranparthib.w3spaces.com/?fbclid=IwAR2Thupc-ggltoR_vSx-gPU-1yEWsQC6A7oqgEnvUQAQjKLhhlYNeh3QnBY)
+  [https://imranparthib.w3spaces.com/?fbclid=IwAR2Thupc-ggltoR_vSx-gPU-1yEWsQC6A7oqgEnvUQAQjKLhhlYNeh3QnBY](https://imranparthib.w3spaces.com/?fbclid=IwAR2Thupc-ggltoR_vSx-gPU-1yEWsQC6A7oqgEnvUQAQjKLhhlYNeh3QnBY)
 
 - ⚡ Fun fact **"Once lost in the prose of novels, now found in the elegance of code. My story evolved, chapters
-rewritten in algorithms, crafting a digital saga of dreams-turned-reality. 📖💻✨ #NovelsToCode"**
+  rewritten in algorithms, crafting a digital saga of dreams-turned-reality. 📖💻✨ #NovelsToCode"**
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [Navigating the Sea of Software Development: A Conscious Approach](https://medium.com/@imranparthib/navigating-the-sea-of-software-development-a-conscious-approach-6d2c1de32c24?source=rss-894672976d69------2)
 - [Navigating the Sea of Software Development: A Conscious Approach](https://dev.to/imranparthib/navigating-the-sea-of-software-development-a-conscious-approach-3gcc)
 <!-- BLOG-POST-LIST:END -->
+
+### Latest Youtube Videos
+
+<!-- YOUTUBE-LIST:START -->
+<!-- YOUTUBE-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -301,6 +310,7 @@ rewritten in algorithms, crafting a digital saga of dreams-turned-reality. 📖�
 <hr>
 
 # 📊 GitHub Stats:
+
 <table>
     <tr>
         <td style="text-align: center;">
