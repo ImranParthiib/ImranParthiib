@@ -105,7 +105,20 @@
 
 ### Blogs posts
 
+<<<<<<< HEAD
 <!-- BLOG-POST-LIST:START -->
+=======
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Byb0IK0QU_M"><img width="140px" src="http://img.youtube.com/vi/Byb0IK0QU_M/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Byb0IK0QU_M">C++ Heart Shape Code Your Love in Loops #codevisualization #codingart #programming</a><br/>Dec 20, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=99BObFWtwDc"><img width="140px" src="http://img.youtube.com/vi/99BObFWtwDc/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=99BObFWtwDc">C++ Heart Shape: Code Your Love in Loops #programming  #codingart #HeartShapeCode#codevisualization</a><br/>Dec 20, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=OBmzfQuwj3k"><img width="140px" src="http://img.youtube.com/vi/OBmzfQuwj3k/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=OBmzfQuwj3k">Good at Programming #beginners #coding #code#programming #vscode</a><br/>Aug 20, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=zSzlm6okUEk"><img width="140px" src="http://img.youtube.com/vi/zSzlm6okUEk/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=zSzlm6okUEk">how to be good at programming #coding #programming #beginners #code</a><br/>Aug 20, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=r-T689SoQ7M"><img width="140px" src="http://img.youtube.com/vi/r-T689SoQ7M/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=r-T689SoQ7M">𝓓𝓮𝓬𝓸𝓭𝓮 𝓝𝓸𝔀 Live Stream</a><br/>Aug 9, 2023</td></tr></table>
+>>>>>>> 67cf7f25435a9ae9c6233071a9a2eec08aad0579
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest Youtube Videos
