@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/imranparthibinsights/imranparthibinsights/output/snake.svg" alt="Snake animation" />
-
 <table>
     <tr>
         <td width="65%">
@@ -338,6 +336,7 @@
     </tr>
 </table>
 <be>
+<img src="https://raw.githubusercontent.com/imranparthibinsights/imranparthibinsights/output/snake.svg" alt="Snake animation" />
     ✍️Random Dev Quote & Meme:
     <table>
         <tr>
