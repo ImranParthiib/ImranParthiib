@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/imranparthibinsights/imranparthibinsights/output/snake.svg" alt="Snake animation" />
+
 <table>
     <tr>
         <td width="65%">
@@ -348,4 +350,4 @@
             </td>
         </tr>
     </table>
-    <img src="https://raw.githubusercontent.com/imranparthibinsights/imranparthibinsights/output/snake.svg" alt="Snake animation" />
+   
