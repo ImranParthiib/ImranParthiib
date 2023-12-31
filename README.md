@@ -348,4 +348,4 @@
             </td>
         </tr>
     </table>
-    <img src="https://raw.githubusercontent.com/imranparthib13/imranparthib13/output/snake.svg" alt="Snake animation" />
+    <img src="https://raw.githubusercontent.com/imranparthibinsights/imranparthibinsights/output/snake.svg" alt="Snake animation" />
