@@ -336,7 +336,7 @@
     </tr>
 </table>
 <be>
-<img src="https://raw.githubusercontent.com/imranparthibinsights/imranparthibinsights/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ImranParthibInsights/ImranParthibInsights/output/snake.svg" alt="Snake animation" />
     ✍️Random Dev Quote & Meme:
     <table>
         <tr>
