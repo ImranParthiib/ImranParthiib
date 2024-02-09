@@ -115,11 +115,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Changing the theme in VS Code: An easy and effective way. #vscode #theme #vscodeextensions #tips](https://www.youtube.com/watch?v=LPe132FExSQ)
 - [মৃত্যুর নিয়মকানুন-সালমান হাবিব। আরো কিছু কথাবাার্তা................](https://www.youtube.com/watch?v=1wy4aJquVdk)
 - [Codechef DSA learning #dsa  #codechef #programming](https://www.youtube.com/watch?v=wzfxeepCO00)
 - [C++ Heart Shape Code Your Love in Loops #codevisualization #codingart #programming](https://www.youtube.com/watch?v=Byb0IK0QU_M)
 - [C++ Heart Shape: Code Your Love in Loops #programming  #codingart #HeartShapeCode#codevisualization](https://www.youtube.com/watch?v=99BObFWtwDc)
-- [Good at Programming #beginners #coding #code#programming #vscode](https://www.youtube.com/watch?v=OBmzfQuwj3k)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Connect with me:</h3>
