@@ -102,10 +102,11 @@
 
 - ⚡ Fun fact **"Once lost in the prose of novels, now found in the elegance of code. My story evolved, chapters
   rewritten in algorithms, crafting a digital saga of dreams-turned-reality. 📖💻✨ #NovelsToCode"**
-  
+
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Embracing 2024: A Guide to Personal, Community, and Technological Contributions Introduction](https://imranparthib.hashnode.dev/embracing-2024-a-guide-to-personal-community-and-technological-contributions-introduction)
 - [Embracing 2024: A Guide to Personal, Community, and Technological Contributions Introduction](https://medium.com/@imranparthib/embracing-2024-a-guide-to-personal-community-and-technological-contributions-introduction-9d21368943c2?source=rss-894672976d69------2)
 - [Embracing 2024: A Guide to Personal, Community, and Technological Contributions Introduction](https://dev.to/imranparthib/embracing-2024-a-guide-to-personal-community-and-technological-contributions-introduction-14m5)
@@ -114,12 +115,14 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest Youtube Videos
+
 <!-- YOUTUBE:START -->
+
 - [Changing the theme in VS Code: An easy and effective way. #vscode #theme #vscodeextensions #tips](https://www.youtube.com/watch?v=LPe132FExSQ)
 - [মৃত্যুর নিয়মকানুন-সালমান হাবিব। আরো কিছু কথাবাার্তা................](https://www.youtube.com/watch?v=1wy4aJquVdk)
-- [Codechef DSA learning #dsa  #codechef #programming](https://www.youtube.com/watch?v=wzfxeepCO00)
+- [Codechef DSA learning #dsa #codechef #programming](https://www.youtube.com/watch?v=wzfxeepCO00)
 - [C++ Heart Shape Code Your Love in Loops #codevisualization #codingart #programming](https://www.youtube.com/watch?v=Byb0IK0QU_M)
-- [C++ Heart Shape: Code Your Love in Loops #programming  #codingart #HeartShapeCode#codevisualization](https://www.youtube.com/watch?v=99BObFWtwDc)
+- [C++ Heart Shape: Code Your Love in Loops #programming #codingart #HeartShapeCode#codevisualization](https://www.youtube.com/watch?v=99BObFWtwDc)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -320,23 +323,23 @@
 <table>
     <tr>
         <td style="text-align: center;">
-            <img src="https://github-readme-stats.vercel.app/api?username=ImranParthibInsights&theme=react&hide_border=false&include_all_commits=true&count_private=true"
-                alt="ImranParthibInsights" style="display: block; margin: 0 auto;" />
+            <img src="https://github-readme-stats.vercel.app/api?username=ImranParthiib&theme=react&hide_border=false&include_all_commits=true&count_private=true"
+                alt="ImranParthiib" style="display: block; margin: 0 auto;" />
         </td>
         <td style="text-align: center;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImranParthibInsights&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-                alt="ImranParthibInsights" style="display: block; margin: 0 auto;" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImranParthiib&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+                alt="ImranParthiib" style="display: block; margin: 0 auto;" />
         </td>
     </tr>
     <tr>
         <td colspan="2" style="text-align: center;">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImranParthibInsights&theme=react&hide_border=false"
-                alt="ImranParthibInsights" style="display: block; margin: 0 auto;" />
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImranParthiib&theme=react&hide_border=false"
+                alt="ImranParthiib" style="display: block; margin: 0 auto;" />
         </td>
     </tr>
 </table>
 <be>
-<img src="https://raw.githubusercontent.com/ImranParthibInsights/ImranParthibInsights/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ImranParthiib/ImranParthiib/output/snake.svg" alt="Snake animation" />
     ✍️Random Dev Quote & Meme:
     <table>
         <tr>
@@ -349,4 +352,3 @@
             </td>
         </tr>
     </table>
-   
