@@ -70,7 +70,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=imranparthib13&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=imranparthiib&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🌐 Connect with Me:
 
