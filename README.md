@@ -106,11 +106,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ramadan Mubarak………!](https://medium.com/@imranparthib/ramadan-mubarak-c1cfbbc5cce5?source=rss-894672976d69------2)
 - [Embracing 2024: A Guide to Personal, Community, and Technological Contributions Introduction](https://imranparthib.hashnode.dev/embracing-2024-a-guide-to-personal-community-and-technological-contributions-introduction)
 - [Embracing 2024: A Guide to Personal, Community, and Technological Contributions Introduction](https://medium.com/@imranparthib/embracing-2024-a-guide-to-personal-community-and-technological-contributions-introduction-9d21368943c2?source=rss-894672976d69------2)
 - [Embracing 2024: A Guide to Personal, Community, and Technological Contributions Introduction](https://dev.to/imranparthib/embracing-2024-a-guide-to-personal-community-and-technological-contributions-introduction-14m5)
 - [Navigating the Evolving World of Software Development: Key Insights and Trends for Success](https://imranparthib.hashnode.dev/modern-software-development-insights-trends)
-- [Navigating the Sea of Software Development: A Conscious Approach](https://medium.com/@imranparthib/navigating-the-sea-of-software-development-a-conscious-approach-6d2c1de32c24?source=rss-894672976d69------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest Youtube Videos
