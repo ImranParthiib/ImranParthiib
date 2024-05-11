@@ -23,9 +23,7 @@
             </p>
         </td>
         <td width="35%">
-    
- shorts.mp4
-               
+ <img src="https://media.tenor.com/LENeju0qxusAAAAC/hackerman.gif" alt="CodingNight&Day" width=" ">
             <p>🔍Technologies Overview :</p>
             <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
                 alt="">
