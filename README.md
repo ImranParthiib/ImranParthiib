@@ -26,7 +26,7 @@
             <video width="" height="240" controls>
                     <source src="Assets/shorts.mp4" type="video/mp4">
                     Your browser does not support the video tag.
-                </video>
+            </video>
             <p>🔍Technologies Overview :</p>
             <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
                 alt="">
