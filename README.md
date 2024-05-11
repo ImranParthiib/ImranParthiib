@@ -23,7 +23,10 @@
             </p>
         </td>
         <td width="35%">
-            <img src="https://media.tenor.com/LENeju0qxusAAAAC/hackerman.gif" alt="CodingNight&Day" width=" ">
+            <video width="" height="240" controls>
+                    <source src="Assets/shorts.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
             <p>🔍Technologies Overview :</p>
             <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
                 alt="">
