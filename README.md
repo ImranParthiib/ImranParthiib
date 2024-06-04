@@ -116,11 +116,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [ফিরিয়ে দাও - Song by Miles &lpar;AI Version&rpar; #ai #capcut #song](https://www.youtube.com/watch?v=pEhmN_PRpv0)
+- [Mystery in the Rain - &lpar;AI Music Video&rpar; #ai #capcut #song #trending](https://www.youtube.com/watch?v=FhEvpMgSROw)
 - [Mystery in the Rain - &lpar;AI Music Video&rpar; #ai #capcut #song #trending](https://www.youtube.com/watch?v=rhIGTTcnniE)
 - [ফিরিয়ে দাও - Song by Miles &lpar;AI Version&rpar; #ai #capcut #song](https://www.youtube.com/watch?v=nJW5bCvQoVs)
 - [Unlock Success: Consistency is the Key #consistency #programming #learning](https://www.youtube.com/watch?v=fJvcbUjCCE4)
-- [Changing the theme in VS Code: An easy and effective way. #vscode #theme #vscodeextensions #tips](https://www.youtube.com/watch?v=LPe132FExSQ)
-- [মৃত্যুর নিয়মকানুন-সালমান হাবিব। আরো কিছু কথাবাার্তা................](https://www.youtube.com/watch?v=1wy4aJquVdk)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Connect with me:</h3>
