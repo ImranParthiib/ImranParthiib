@@ -116,11 +116,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [🚀Improve Typing Skills &amp; Learn Vocabulary📚! #typing #vocabulary #english #video #gameplay #learning](https://www.youtube.com/watch?v=iCbBZ1eYBs8)
 - [ফিরিয়ে দাও - Song by Miles &lpar;AI Version&rpar; #ai #capcut #song](https://www.youtube.com/watch?v=pEhmN_PRpv0)
 - [Mystery in the Rain - &lpar;AI Music Video&rpar; #ai #capcut #song #trending](https://www.youtube.com/watch?v=FhEvpMgSROw)
 - [Mystery in the Rain - &lpar;AI Music Video&rpar; #ai #capcut #song #trending](https://www.youtube.com/watch?v=rhIGTTcnniE)
 - [ফিরিয়ে দাও - Song by Miles &lpar;AI Version&rpar; #ai #capcut #song](https://www.youtube.com/watch?v=nJW5bCvQoVs)
-- [Unlock Success: Consistency is the Key #consistency #programming #learning](https://www.youtube.com/watch?v=fJvcbUjCCE4)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Connect with me:</h3>
