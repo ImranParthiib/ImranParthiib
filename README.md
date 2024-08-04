@@ -85,7 +85,7 @@
 
 - 🤝 I’m looking for help with [DevInsights](https://github.com/ImranParthib13/DevInsights)
 
-- 👨‍💻 All of my projects are available at [https://imranparthib.w3spaces.com](https://imranparthib.w3spaces.com)
+- 👨‍💻 All of my projects are available at [https://imranparthib.me](https://imranparthib.me)
 
 - 📝 I regularly write articles on [https://dev.to/imranparthib](https://dev.to/imranparthib)
 
@@ -94,7 +94,7 @@
 - 📫 How to reach me **imranparthib13@gmail.com,https://www.linkedin.com/in/imranparthib/**
 
 - 📄 Know about my experiences
-  [https://imranparthib.w3spaces.com/?fbclid=IwAR2Thupc-ggltoR_vSx-gPU-1yEWsQC6A7oqgEnvUQAQjKLhhlYNeh3QnBY](https://imranparthib.w3spaces.com/?fbclid=IwAR2Thupc-ggltoR_vSx-gPU-1yEWsQC6A7oqgEnvUQAQjKLhhlYNeh3QnBY)
+  [here](https://imranparthib.me)
 
 - ⚡ Fun fact **"Once lost in the prose of novels, now found in the elegance of code. My story evolved, chapters
   rewritten in algorithms, crafting a digital saga of dreams-turned-reality. 📖💻✨ #NovelsToCode"**
@@ -123,76 +123,84 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://codepen.io/@imran-parthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-            alt="@imran-parthib" height="30" width="40" /></a>
-    <a href="https://dev.to/imranparthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-            alt="imranparthib" height="30" width="40" /></a>
-    <a href="https://twitter.com/imranparthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="imranparthib" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/imranparthib" target="blank"><img align="center"
+<a href="https://linkedin.com/in/imranparthib" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="imranparthib" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/imran-parthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-            alt="imran-parthib" height="30" width="40" /></a>
-    <a href="https://codesandbox.com/imranparthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg"
-            alt="imranparthib" height="30" width="40" /></a>
-    <a href="https://kaggle.com/imranparthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
-            alt="imranparthib" height="30" width="40" /></a>
-    <a href="https://www.facebook.com/ImranPathib.Dev" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="imranparthib" height="30" width="40" /></a>
-    <a href="https://instagram.com/decode_us" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="decode_us" height="30" width="40" /></a>
-    <a href="https://dribbble.com/imranparthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg"
-            alt="imranparthib" height="30" width="40" /></a>
-    <a href="https://www.behance.net/imran parthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"
-            alt="imran parthib" height="30" width="40" /></a>
-    <a href="https://hashnode.com/@imranparthib13" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg"
-            alt="@imranparthib13" height="30" width="40" /></a>
-    <a href="https://medium.com/@imranparthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-            alt="@imranparthib" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/c/@decode_us_" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-            alt="@decode_us_" height="30" width="40" /></a>
-    <a href="https://www.codechef.com/users/imranparthib" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="imranparthib" height="30"
-            width="40" /></a>
-    <a href="https://www.hackerrank.com/@imranparthib13" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-            alt="@imranparthib13" height="30" width="40" /></a>
-    <a href="https://codeforces.com/profile/imran_parthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
-            alt="imran_parthib" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/imran_parthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-            alt="imran_parthib" height="30" width="40" /></a>
-    <a href="https://www.hackerearth.com/imran_parthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg"
-            alt="imran_parthib" height="30" width="40" /></a>
-    <a href="https://auth.geeksforgeeks.org/user/imranparthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
-            alt="imranparthib" height="30" width="40" /></a>
-    <a href="https://www.topcoder.com/members/imranparthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg"
-            alt="imranparthib" height="30" width="40" /></a>
-    <a href="https://discord.gg/imranparthib" target="blank"><img align="center"
+<a href="https://discord.gg/imranparthib" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
             alt="imranparthib" height="30" width="40" /></a>
-    <a href="/https://dev.to/feed/imranparthib, https://medium.com/feed@imranparthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg"
-            alt="https://dev.to/feed/imranparthib, https://medium.com/feed@imranparthib" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ImranPathib.Dev" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+            alt="imranparthib" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@decode_us_" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+            alt="@decode_us_" height="30" width="40" /></a>            
+<a href="https://instagram.com/decode_us" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            alt="decode_us" height="30" width="40" /></a>  
+<a href="https://twitter.com/imranparthib" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            alt="imranparthib" height="30" width="40" /></a>
+
+<a href="https://dev.to/imranparthib" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
+            alt="imranparthib" height="30" width="40" /></a>
+
+<a href="https://codepen.io/@imran-parthib" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
+            alt="@imran-parthib" height="30" width="40" /></a>
+
+<!--
+
+
+<a href="https://stackoverflow.com/users/imran-parthib" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+            alt="imran-parthib" height="30" width="40" /></a>
+<a href="https://codesandbox.com/imranparthib" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg"
+            alt="imranparthib" height="30" width="40" /></a>
+<a href="https://kaggle.com/imranparthib" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
+            alt="imranparthib" height="30" width="40" /></a>
+
+
+<a href="https://dribbble.com/imranparthib" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg"
+            alt="imranparthib" height="30" width="40" /></a>
+<a href="https://www.behance.net/imran parthib" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"
+            alt="imran parthib" height="30" width="40" /></a>
+<a href="https://hashnode.com/@imranparthib13" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg"
+            alt="@imranparthib13" height="30" width="40" /></a>
+<a href="https://medium.com/@imranparthib" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
+            alt="@imranparthib" height="30" width="40" /></a>
+
+<a href="https://www.codechef.com/users/imranparthib" target="blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="imranparthib" height="30"
+            width="40" /></a>
+<a href="https://www.hackerrank.com/@imranparthib13" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+            alt="@imranparthib13" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/imran_parthib" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
+            alt="imran_parthib" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/imran_parthib" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+            alt="imran_parthib" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/imran_parthib" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg"
+            alt="imran_parthib" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/imranparthib" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
+            alt="imranparthib" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/imranparthib" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg"
+            alt="imranparthib" height="30" width="40" /></a>
+
 </p>
+-->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
