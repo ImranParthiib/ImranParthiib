@@ -3,24 +3,31 @@
         <td width="65%">
             <h1>Hi 👋, I'm Imran Parthib<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4500&pause=100&random=false&width=445&lines=Pursuing+Computer+Science+and+Engineering;Web+Developer;Programming+Enthusiast;Problem+Solver;Thinker+and+Reformer" alt="Typing SVG" /></a></h1>
             <p>
-                🚀 Enthusiastic Web Developer and programmer 🌐 Crafting seamless digital experiences with passion and
-                precision.
-                Proudly representing the vibrant spirit of Bangladesh! 🇧🇩💻 #CodeCreator
-            </p>
-            <p>
-                💡 I love transforming ideas into reality through code. My journey in the world of programming is an
-                ever-evolving exploration, and I thrive on challenges that push me to learn and grow.
-            </p>
-            <p>
-                🌱 Currently learning and exploring new technologies to stay ahead in the dynamic field of web
-                development.
-                Excited about the potential of AI, blockchain, and their intersection with web technologies.
-            </p>
-            <p>
-                📫 Connect with me! Let's discuss ideas, collaborate on projects, or just chat about the latest tech
-                trends.
-                Open to exciting opportunities and collaborations.
-            </p>
+    I am a frontend web developer and programmer 🌐 dedicated to crafting seamless digital experiences with passion and precision.
+    Proudly representing the vibrant spirit of Bangladesh! 🇧🇩💻 #CodeCreator
+</p>
+<p>
+    💡 I thrive on transforming ideas into reality through code. My journey in the world of programming is a continuous exploration, and I embrace challenges that push me to learn and grow.
+</p>
+<p>
+    🌱 Currently, I am learning and exploring new technologies to stay ahead in the dynamic field of web development.
+    I am particularly excited about the potential of AI, blockchain, and their intersection with web technologies.
+</p>
+<p>
+    📫 Let's connect! I'm open to discussing ideas, collaborating on projects, or chatting about the latest tech trends.
+    Always open to exciting opportunities and collaborations.
+</p>
+<p>
+    🔧 My skill set includes:
+    <ul>
+        <li>HTML5, CSS3, Bootstrap, Tailwind</li>
+        <li>JavaScript, React</li>
+        <li>Responsive web design</li>
+        <li>Building robust and scalable websites</li>
+        <li>C, C++, Java, Python, SQL</li>
+        <li>CRUD operations with PHP and phpMyAdmin</li>
+    </ul>
+</p>
         </td>
         <td width="35%">
  <img src="https://media.tenor.com/LENeju0qxusAAAAC/hackerman.gif" alt="CodingNight&Day" width=" ">
@@ -106,6 +113,7 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Understanding Arrow Functions in JavaScript: Advantages and Best Practices](https://dev.to/imranparthib/understanding-arrow-functions-in-javascript-advantages-and-best-practices-1am7)
 - [Ramadan Mubarak………!](https://medium.com/@imranparthib/ramadan-mubarak-c1cfbbc5cce5?source=rss-894672976d69------2)
 - [Embracing 2024: A Guide to Personal, Community, and Technological Contributions Introduction](https://imranparthib.hashnode.dev/embracing-2024-a-guide-to-personal-community-and-technological-contributions-introduction)
@@ -116,6 +124,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+
 - [🚀Improve Typing Skills &amp; Learn Vocabulary📚! #typing #vocabulary #english #video #gameplay #learning](https://www.youtube.com/watch?v=iCbBZ1eYBs8)
 - [ফিরিয়ে দাও - Song by Miles &lpar;AI Version&rpar; #ai #capcut #song](https://www.youtube.com/watch?v=pEhmN_PRpv0)
 - [Mystery in the Rain - &lpar;AI Music Video&rpar; #ai #capcut #song #trending](https://www.youtube.com/watch?v=FhEvpMgSROw)
