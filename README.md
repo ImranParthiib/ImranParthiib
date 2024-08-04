@@ -141,11 +141,9 @@
 <a href="https://twitter.com/imranparthib" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="imranparthib" height="30" width="40" /></a>
-
 <a href="https://dev.to/imranparthib" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
             alt="imranparthib" height="30" width="40" /></a>
-
 <a href="https://codepen.io/@imran-parthib" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
             alt="@imran-parthib" height="30" width="40" /></a>
