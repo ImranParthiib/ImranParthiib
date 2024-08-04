@@ -18,7 +18,7 @@
     Always open to exciting opportunities and collaborations.
 </p>
         </td>
-        <td hieght="35%">
+        <td hieght="45%">
  <img src="./image/portfolio.png" width=" ">
             <p>🔧 My skill set includes:</p>
             <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
