@@ -13,10 +13,7 @@
     🌱 Currently, I am learning and exploring new technologies to stay ahead in the dynamic field of web development.
     I am particularly excited about the potential of AI, blockchain, and their intersection with web technologies.
 </p>
-<p>
-    📫 Let's connect! I'm open to discussing ideas, collaborating on projects, or chatting about the latest tech trends.
-    Always open to exciting opportunities and collaborations.
-</p>
+
 <p>
     🔧 My skill set includes:
     <ul>
@@ -27,6 +24,10 @@
         <li>C, C++, Java, Python, SQL</li>
         <li>CRUD operations with PHP and phpMyAdmin</li>
     </ul>
+</p>
+<p style="background-color: #f9f9f9; padding: 10px; border-radius: 5px;">
+    📫 Let's connect! I'm open to discussing ideas, collaborating on projects, or chatting about the latest tech trends.
+    Always open to exciting opportunities and collaborations.
 </p>
         </td>
         <td width="35%">
