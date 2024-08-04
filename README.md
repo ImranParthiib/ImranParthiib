@@ -25,13 +25,13 @@
         <li>CRUD operations with PHP and phpMyAdmin</li>
     </ul>
 </p>
-<p style="background-color: #f9f9f9; padding: 10px; border-radius: 5px;">
+<p>
     📫 Let's connect! I'm open to discussing ideas, collaborating on projects, or chatting about the latest tech trends.
     Always open to exciting opportunities and collaborations.
 </p>
         </td>
         <td width="35%">
- <img src="https://media.tenor.com/LENeju0qxusAAAAC/hackerman.gif" alt="CodingNight&Day" width=" ">
+ <img src="./image/portfolio.png" width=" ">
             <p>🔍Technologies Overview :</p>
             <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
                 alt="">
