@@ -13,26 +13,14 @@
     🌱 Currently, I am learning and exploring new technologies to stay ahead in the dynamic field of web development.
     I am particularly excited about the potential of AI, blockchain, and their intersection with web technologies.
 </p>
-
-<p>
-    🔧 My skill set includes:
-    <ul>
-        <li>HTML5, CSS3, Bootstrap, Tailwind</li>
-        <li>JavaScript, React</li>
-        <li>Responsive web design</li>
-        <li>Building robust and scalable websites</li>
-        <li>C, C++, Java, Python, SQL</li>
-        <li>CRUD operations with PHP and phpMyAdmin</li>
-    </ul>
-</p>
 <p>
     📫 Let's connect! I'm open to discussing ideas, collaborating on projects, or chatting about the latest tech trends.
     Always open to exciting opportunities and collaborations.
 </p>
         </td>
-        <td width="35%">
+        <td hieght="35%">
  <img src="./image/portfolio.png" width=" ">
-            <p>🔍Technologies Overview :</p>
+            <p>🔧 My skill set includes:</p>
             <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
                 alt="">
             <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
@@ -114,6 +102,7 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Understanding Arrow Functions in JavaScript: Advantages and Best Practices](https://dev.to/imranparthib/understanding-arrow-functions-in-javascript-advantages-and-best-practices-1am7)
 - [Ramadan Mubarak………!](https://medium.com/@imranparthib/ramadan-mubarak-c1cfbbc5cce5?source=rss-894672976d69------2)
 - [Embracing 2024: A Guide to Personal, Community, and Technological Contributions Introduction](https://imranparthib.hashnode.dev/embracing-2024-a-guide-to-personal-community-and-technological-contributions-introduction)
@@ -124,6 +113,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+
 - [🚀Improve Typing Skills &amp; Learn Vocabulary📚! #typing #vocabulary #english #video #gameplay #learning](https://www.youtube.com/watch?v=iCbBZ1eYBs8)
 - [ফিরিয়ে দাও - Song by Miles &lpar;AI Version&rpar; #ai #capcut #song](https://www.youtube.com/watch?v=pEhmN_PRpv0)
 - [Mystery in the Rain - &lpar;AI Music Video&rpar; #ai #capcut #song #trending](https://www.youtube.com/watch?v=FhEvpMgSROw)
