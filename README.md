@@ -20,9 +20,9 @@
         </td>
         <td hieght="45%">  
  <img src="./image/portfolio.png" width=" ">
-
+ 
 <a href="https://imranparthib.me/">
-  <img src="image.png" alt="alt text" style="width: 20px;"/>
+  <img src="./image/image.png" alt="alt text" style="width: 20px;"/>
   Portfolio Link
 </a>
 
