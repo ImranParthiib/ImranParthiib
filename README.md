@@ -21,12 +21,12 @@
         <td hieght="45%">  
  <img src="./image/portfolio.png" width=" ">
  
-<a href="https://imranparthib.me/">
+<a href="https://imranparthib.me/" style="display: inline-block; margin-bottom: 10px;">
   <img src="./image/image.png" alt="alt text" style="width: 15px;"/>
   Portfolio Link
 </a>
-<br>
-<p>🚀 My skill set includes:</p>
+
+<p style="font-size: 20px;">🚀 My skill set includes:</p>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
                 alt="">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
