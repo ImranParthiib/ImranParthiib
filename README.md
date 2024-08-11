@@ -112,7 +112,6 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Understanding Arrow Functions in JavaScript: Advantages and Best Practices](https://dev.to/imranparthib/understanding-arrow-functions-in-javascript-advantages-and-best-practices-1am7)
 - [Ramadan Mubarak………!](https://medium.com/@imranparthib/ramadan-mubarak-c1cfbbc5cce5?source=rss-894672976d69------2)
 - [Embracing 2024: A Guide to Personal, Community, and Technological Contributions Introduction](https://imranparthib.hashnode.dev/embracing-2024-a-guide-to-personal-community-and-technological-contributions-introduction)
