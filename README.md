@@ -21,7 +21,10 @@
         <td hieght="45%">  
  <img src="./image/portfolio.png" width=" ">
 
-[![alt text](image.png)Portfolio Link](https://imranparthib.me/)
+<a href="https://imranparthib.me/">
+  <img src="image.png" alt="alt text" style="width: 100px;"/>
+  Portfolio Link
+</a>
 
 <p>🔧 My skill set includes:</p>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
