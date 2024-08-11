@@ -21,7 +21,7 @@
         <td hieght="45%">  
  <img src="./image/portfolio.png" width=" ">
  
-<a href="https://imranparthib.me/" style="display: inline-block; margin-bottom: 10px;">
+<a href="https://imranparthib.me/" style="margin-bottom: 10px;">
   <img src="./image/image.png" alt="alt text" style="width: 15px;"/>
   Portfolio Link
 </a>
