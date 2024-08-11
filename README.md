@@ -18,7 +18,7 @@
     Always open to exciting opportunities and collaborations.
 </p>
         </td>
-        <td hieght="45%">  
+        <td hieght="50%">  
  <img src="./image/portfolio.png" width=" ">
  
 <p>
