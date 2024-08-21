@@ -122,11 +122,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Congratulations You Found Me Gift&lpar;নিজেকে খুঁজে ফিরে&rpar;_Suno Music #ai #song  #trending](https://www.youtube.com/watch?v=SMVQD3MQKgE)
+- [JavaScript Arrow Function #javascript  #programming  #ai  #coding  #gaming](https://www.youtube.com/watch?v=PbqchVw8pzo)
 - [তোমার নীরব অনুপস্থিতি Your Silent Absence&lpar;Suno Original Music Video&rpar; #ai #song #music #trending](https://www.youtube.com/watch?v=GA0dEETUSjk)
 - [🚀Improve Typing Skills &amp; Learn Vocabulary📚! #typing #vocabulary #english #video #gameplay #learning](https://www.youtube.com/watch?v=iCbBZ1eYBs8)
 - [ফিরিয়ে দাও - Song by Miles &lpar;AI Version&rpar; #ai #capcut #song](https://www.youtube.com/watch?v=pEhmN_PRpv0)
-- [Mystery in the Rain - &lpar;AI Music Video&rpar; #ai #capcut #song #trending](https://www.youtube.com/watch?v=FhEvpMgSROw)
-- [Mystery in the Rain - &lpar;AI Music Video&rpar; #ai #capcut #song #trending](https://www.youtube.com/watch?v=rhIGTTcnniE)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Connect with me:</h3>
