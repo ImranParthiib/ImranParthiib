@@ -114,9 +114,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [# JavaScript ES6 Features](https://dev.to/imranparthib/-javascript-es6-features-35di)
 - [Understanding Arrow Functions in JavaScript: Advantages and Best Practices](https://dev.to/imranparthib/understanding-arrow-functions-in-javascript-advantages-and-best-practices-1am7)
-- [Ramadan Mubarak………!](https://medium.com/@imranparthib/ramadan-mubarak-c1cfbbc5cce5?source=rss-894672976d69------2)
 - [Embracing 2024: A Guide to Personal, Community, and Technological Contributions Introduction](https://imranparthib.hashnode.dev/embracing-2024-a-guide-to-personal-community-and-technological-contributions-introduction)
 - [Embracing 2024: A Guide to Personal, Community, and Technological Contributions Introduction](https://medium.com/@imranparthib/embracing-2024-a-guide-to-personal-community-and-technological-contributions-introduction-9d21368943c2?source=rss-894672976d69------2)
+- [Embracing 2024: A Guide to Personal, Community, and Technological Contributions Introduction](https://dev.to/imranparthib/embracing-2024-a-guide-to-personal-community-and-technological-contributions-introduction-14m5)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest Youtube Videos
