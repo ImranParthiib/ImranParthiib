@@ -87,9 +87,9 @@
     </a>
 </p>
 
-- 🔭 I’m currently working on [Infit Shopping](https://github.com/ImranParthib13/InFit-E-Commerce)
+- 🔭 I’m currently working on [PiLab](https://github.com/ImranParthiib/PiLab)
 
-- 🌱 I’m currently learning **ReactJS,Node.js,MongoDB,Next.js,Vue.js**
+- 🌱 I’m currently learning **Next.js,Node.js,Express.js,MongoDB**
 
 - 👯 I’m looking to collaborate on [Task Management App](https://github.com/ImranParthib13/Task-Management-App)
 
@@ -131,7 +131,8 @@
 - [ফিরিয়ে দাও - Song by Miles &lpar;AI Version&rpar; #ai #capcut #song](https://www.youtube.com/watch?v=pEhmN_PRpv0)
 <!-- YOUTUBE:END -->
 
-<h3 align="left">Connect with me:</h3>
+# 💻 Keep Updated with me:
+
 <p align="left">
 <a href="https://linkedin.com/in/imranparthib" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -148,16 +149,15 @@
 <a href="https://instagram.com/decode_us" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="decode_us" height="30" width="40" /></a>  
-<a href="https://twitter.com/imranparthib" target="blank"><img align="center"
+<!-- <a href="https://twitter.com/imranparthib" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="imranparthib" height="30" width="40" /></a>
+            alt="imranparthib" height="30" width="40" /></a> -->
 <a href="https://dev.to/imranparthib" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
             alt="imranparthib" height="30" width="40" /></a>
-<a href="https://codepen.io/@imran-parthib" target="blank"><img align="center"
+<!-- <a href="https://codepen.io/@imran-parthib" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-            alt="@imran-parthib" height="30" width="40" /></a>
-
+            alt="@imran-parthib" height="30" width="40" /></a> -->
 
 # 💻 Tech Stack:
 
