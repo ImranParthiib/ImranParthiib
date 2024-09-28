@@ -131,7 +131,7 @@
 - [ফিরিয়ে দাও - Song by Miles &lpar;AI Version&rpar; #ai #capcut #song](https://www.youtube.com/watch?v=pEhmN_PRpv0)
 <!-- YOUTUBE:END -->
 
-## 🌐 Keep Updated with me:
+ <h3>🌐 Keep Updated with me:</h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/imranparthib" target="blank"><img align="center"
