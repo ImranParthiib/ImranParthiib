@@ -3,16 +3,12 @@
         <td width="65%">
             <h1>Hi 👋, I'm Imran Parthib<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4500&pause=100&random=false&width=445&lines=Pursuing+Computer+Science+and+Engineering;Web+Developer;Programming+Enthusiast;Problem+Solver;Thinker+and+Reformer" alt="Typing SVG" /></a></h1>
             <p>
-    I am a frontend web developer and programmer 🌐 dedicated to crafting seamless digital experiences with passion and precision.
-    Proudly representing the vibrant spirit of Bangladesh! 🇧🇩💻 #CodeCreator
+    🌐 I am a CSE graduate and frontend web developer from Bangladesh, passionate about creating seamless web experiences. Proficient in HTML5, CSS3, JavaScript, and React, I build responsive, engaging websites. Currently, I am expanding my backend skills with Node.js, Express, and MongoDB, while exploring AI and blockchain technologies💻.
 </p>
 <p>
-    💡 I thrive on transforming ideas into reality through code. My journey in the world of programming is a continuous exploration, and I embrace challenges that push me to learn and grow.
+    💡 I also have experience with C, C++, Java, and Python, along with strong knowledge in data structures, algorithms, and OOP concepts. In my free time, I solve problems on platforms like URI, HackerRank, and Codeforces, and explore Python and Linux. I enjoy reading diverse books and writing to fuel my creativity.
 </p>
-<p>
-    🌱 Currently, I am learning and exploring new technologies to stay ahead in the dynamic field of web development.
-    I am particularly excited about the potential of AI, blockchain, and their intersection with web technologies.
-</p>
+ 
 <p>
     📫 Let's connect! I'm open to discussing ideas, collaborating on projects, or chatting about the latest tech trends.
     Always open to exciting opportunities and collaborations.
