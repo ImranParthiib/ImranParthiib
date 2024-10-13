@@ -3,7 +3,7 @@
         <td width="65%">
             <h1>Hi 👋, I'm Imran Parthib<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4500&pause=100&random=false&width=445&lines=Pursuing+Computer+Science+and+Engineering;Web+Developer;Programming+Enthusiast;Problem+Solver;Thinker+and+Reformer" alt="Typing SVG" /></a></h1>
             <p>
-    I am a Computer Science and Engineering student and a passionate front-end web developer from Bangladesh. I specialize in building responsive and engaging web experiences with proficiency in HTML5, CSS3, JavaScript, and React. I continuously enhance my skills and expand into backend development with Node.js, Express, and MongoDB while exploring emerging fields like AI and blockchain technologies.  💻
+    I am a Computer Science and Engineering student and a passionate front-end web developer from Bangladesh. I specialize in building responsive and engaging web experiences with proficiency in HTML5, CSS3, Bootstrap, Tailwind, JavaScript, and React. I continuously enhance my skills and expand into backend development with Node.js, Express, and MongoDB/(Supabase,Firebase) while exploring emerging fields like AI and blockchain technologies.  💻
 </p>
 <p>
     In addition to web development, I have experience with C, C++, Java, and Python, and I possess strong knowledge of data structures, algorithms, and object-oriented programming. I enjoy problem-solving on platforms such as URI, HackerRank, and Codeforces, and am passionate about working with Python and Linux. Outside of coding, I love reading and writing, which help fuel my creativity. 📚
