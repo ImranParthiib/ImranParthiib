@@ -3,14 +3,14 @@
         <td width="65%">
             <h1>Hi 👋, I'm Imran Parthib<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4500&pause=100&random=false&width=445&lines=Pursuing+Computer+Science+and+Engineering;Web+Developer;Programming+Enthusiast;Problem+Solver;Thinker+and+Reformer" alt="Typing SVG" /></a></h1>
             <p>
-    I am currently studying Computer Science and Engineering with a specialization in front-end web development in Bangladesh. I am passionate about creating seamless web experiences and proficient in HTML5, CSS3, JavaScript, and React, enabling me to build responsive and engaging websites. I am also expanding my backend skills with Node.js, Express, and MongoDB, and exploring AI and blockchain technologies. 💻
+    I am a Computer Science and Engineering student and a passionate front-end web developer from Bangladesh. I specialize in building responsive and engaging web experiences with proficiency in HTML5, CSS3, JavaScript, and React. I continuously enhance my skills and expand into backend development with Node.js, Express, and MongoDB while exploring emerging fields like AI and blockchain technologies.  💻
 </p>
 <p>
-    In addition to the above, I have experience with C, C++, Java, and Python, and a strong knowledge of data structures, algorithms, and object-oriented programming concepts. In my free time, I enjoy solving problems on platforms like URI, HackerRank, and Codeforces, as well as exploring Python and Linux. I find joy in reading diverse books and writing to fuel my creativity. 📚
+    In addition to web development, I have experience with C, C++, Java, and Python, and I possess strong knowledge of data structures, algorithms, and object-oriented programming. I enjoy problem-solving on platforms such as URI, HackerRank, and Codeforces, and am passionate about working with Python and Linux. Outside of coding, I love reading and writing, which help fuel my creativity. 📚
 </p>
  
 <p>
-    I am open to discussing ideas, collaborating on projects, or chatting about the latest tech trends. I am always open to exciting opportunities and collaborations. Let's connect! 🌐
+    I am open to collaborating on projects, sharing ideas, or discussing the latest tech trends. Let's connect and explore exciting opportunities together! #ComputerScience #WebDevelopment #TechSkills 🌐
     #ComputerScience #WebDevelopment #TechSkills
 </p>
         </td>
@@ -108,6 +108,7 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [# JavaScript ES6 Features](https://dev.to/imranparthib/-javascript-es6-features-35di)
 - [Understanding Arrow Functions in JavaScript: Advantages and Best Practices](https://dev.to/imranparthib/understanding-arrow-functions-in-javascript-advantages-and-best-practices-1am7)
 - [Embracing 2024: A Guide to Personal, Community, and Technological Contributions Introduction](https://imranparthib.hashnode.dev/embracing-2024-a-guide-to-personal-community-and-technological-contributions-introduction)
@@ -118,9 +119,10 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Exam Time Flight    #javascript  #programming #react](https://www.youtube.com/watch?v=9JXNA-bOuDY)
-- [Congratulations You Found Me Gift&lpar;নিজেকে খুঁজে ফিরে&rpar;_Suno Music #ai #song  #trending](https://www.youtube.com/watch?v=SMVQD3MQKgE)
-- [JavaScript Arrow Function #javascript  #programming  #ai  #coding  #gaming](https://www.youtube.com/watch?v=PbqchVw8pzo)
+
+- [Exam Time Flight #javascript #programming #react](https://www.youtube.com/watch?v=9JXNA-bOuDY)
+- [Congratulations You Found Me Gift&lpar;নিজেকে খুঁজে ফিরে&rpar;\_Suno Music #ai #song #trending](https://www.youtube.com/watch?v=SMVQD3MQKgE)
+- [JavaScript Arrow Function #javascript #programming #ai #coding #gaming](https://www.youtube.com/watch?v=PbqchVw8pzo)
 - [তোমার নীরব অনুপস্থিতি Your Silent Absence&lpar;Suno Original Music Video&rpar; #ai #song #music #trending](https://www.youtube.com/watch?v=GA0dEETUSjk)
 - [🚀Improve Typing Skills &amp; Learn Vocabulary📚! #typing #vocabulary #english #video #gameplay #learning](https://www.youtube.com/watch?v=iCbBZ1eYBs8)
 <!-- YOUTUBE:END -->
