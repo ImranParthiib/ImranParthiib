@@ -3,15 +3,15 @@
         <td width="65%">
             <h1>Hi 👋, I'm Imran Parthib<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4500&pause=100&random=false&width=445&lines=Pursuing+Computer+Science+and+Engineering;Web+Developer;Programming+Enthusiast;Problem+Solver;Thinker+and+Reformer" alt="Typing SVG" /></a></h1>
             <p>
-    🌐 I am a CSE graduate and frontend web developer from Bangladesh, passionate about creating seamless web experiences. Proficient in HTML5, CSS3, JavaScript, and React, I build responsive, engaging websites. Currently, I am expanding my backend skills with Node.js, Express, and MongoDB, while exploring AI and blockchain technologies💻.
+    I am currently studying Computer Science and Engineering with a specialization in front-end web development in Bangladesh. I am passionate about creating seamless web experiences and proficient in HTML5, CSS3, JavaScript, and React, enabling me to build responsive and engaging websites. I am also expanding my backend skills with Node.js, Express, and MongoDB, and exploring AI and blockchain technologies. 💻
 </p>
 <p>
-    💡 I also have experience with C, C++, Java, and Python, along with strong knowledge in data structures, algorithms, and OOP concepts. In my free time, I solve problems on platforms like URI, HackerRank, and Codeforces, and explore Python and Linux. I enjoy reading diverse books and writing to fuel my creativity.
+    In addition to the above, I have experience with C, C++, Java, and Python, and a strong knowledge of data structures, algorithms, and object-oriented programming concepts. In my free time, I enjoy solving problems on platforms like URI, HackerRank, and Codeforces, as well as exploring Python and Linux. I find joy in reading diverse books and writing to fuel my creativity. 📚
 </p>
  
 <p>
-    📫 Let's connect! I'm open to discussing ideas, collaborating on projects, or chatting about the latest tech trends.
-    Always open to exciting opportunities and collaborations.
+    I am open to discussing ideas, collaborating on projects, or chatting about the latest tech trends. I am always open to exciting opportunities and collaborations. Let's connect! 🌐
+    #ComputerScience #WebDevelopment #TechSkills
 </p>
         </td>
         <td hieght="50%">  
