@@ -117,10 +117,9 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-
-- [Exam Time Flight #javascript #programming #react](https://www.youtube.com/watch?v=9JXNA-bOuDY)
-- [Congratulations You Found Me Gift&lpar;নিজেকে খুঁজে ফিরে&rpar;\_Suno Music #ai #song #trending](https://www.youtube.com/watch?v=SMVQD3MQKgE)
-- [JavaScript Arrow Function #javascript #programming #ai #coding #gaming](https://www.youtube.com/watch?v=PbqchVw8pzo)
+- [Exam Time Flight    #javascript  #programming #react](https://www.youtube.com/watch?v=9JXNA-bOuDY)
+- [Congratulations You Found Me Gift&lpar;নিজেকে খুঁজে ফিরে&rpar;_Suno Music #ai #song  #trending](https://www.youtube.com/watch?v=SMVQD3MQKgE)
+- [JavaScript Arrow Function #javascript  #programming  #ai  #coding  #gaming](https://www.youtube.com/watch?v=PbqchVw8pzo)
 - [তোমার নীরব অনুপস্থিতি Your Silent Absence&lpar;Suno Original Music Video&rpar; #ai #song #music #trending](https://www.youtube.com/watch?v=GA0dEETUSjk)
 - [🚀Improve Typing Skills &amp; Learn Vocabulary📚! #typing #vocabulary #english #video #gameplay #learning](https://www.youtube.com/watch?v=iCbBZ1eYBs8)
 <!-- YOUTUBE:END -->
