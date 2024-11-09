@@ -189,7 +189,7 @@
                 alt="ImranParthib" style="display: block; margin: 0 auto;" />
         </td>
         <td  style="text-align: center;">
-                <img src="./image/fly.gif" alt="Flying animation" height="200" width="200" style="display: block; margin: 0 auto;" />
+                <img src="./image/fly.gif" alt="Flying animation" height="200" width="280" style="display: block; margin: 0 auto;" />
         </td> 
     </tr>
 </table>
