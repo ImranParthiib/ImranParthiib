@@ -172,27 +172,49 @@
 
 # 📊 GitHub Stats:
 
-<table style="border: none;">
-    <tr>
-        <td style="text-align: center;">
-            <img src="https://github-readme-stats.vercel.app/api?username=ImranParthib&theme=react&hide_border=false&include_all_commits=true&count_private=true"
-                alt="ImranParthib" style="display: block; margin: 0 auto;" />
-        </td>
-        <td style="text-align: center;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImranParthib&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-                alt="ImranParthib" style="display: block; margin: 0 auto;" />
-        </td>
-    </tr>
-    <tr>
-        <td  style="text-align: center;">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImranParthib&theme=react&hide_border=false"
-                alt="ImranParthib" style="display: block; margin: 0 auto;" />
-        </td>
-        <td  style="text-align: center;">
-                <img src="./image/fly.gif" alt="Flying animation" height="200" width="200" style="display: block; margin: 0 auto;" />
-        </td> 
-    </tr>
-</table>
+ <style>
+        .responsive-table {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .responsive-table td {
+            flex: 1 1 100%;
+            text-align: center;
+            margin: 10px;
+        }
+        .responsive-table img {
+            max-width: 100%;
+            height: auto;
+        }
+        @media (min-width: 600px) {
+            .responsive-table td {
+                flex: 1 1 45%;
+            }
+        }
+    </style>
+
+  <table class="responsive-table">
+        <tr>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api?username=ImranParthib&theme=react&hide_border=false&include_all_commits=true&count_private=true"
+                    alt="ImranParthib" />
+            </td>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImranParthib&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+                    alt="ImranParthib" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImranParthib&theme=react&hide_border=false"
+                    alt="ImranParthib" />
+            </td>
+            <td>
+                <img src="./image/fly.gif" alt="Flying animation" height="200" width="300" />
+            </td>
+        </tr>
+    </table>
 <be>
 <img src="https://raw.githubusercontent.com/ImranParthib/ImranParthib/output/snake.svg" alt="Snake animation"/>
     ✍️Random Dev Quote & Meme:
