@@ -184,11 +184,11 @@
         </td>
     </tr>
     <tr>
-        <td colspan="2" style="text-align: center;">
+        <td  style="text-align: center;">
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImranParthib&theme=react&hide_border=false"
                 alt="ImranParthib" style="display: block; margin: 0 auto;" />
         </td>
-        <td colspan="2" style="text-align: center;">
+        <td  style="text-align: center;">
                 <img src="./image/fly.gif" alt="Flying animation" height="200" width="200" style="display: block; margin: 0 auto;" />
         </td> 
     </tr>
